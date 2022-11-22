@@ -11,6 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+#Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/503470783213993987)](https://discord.com/users/503470783213993987)
 
 ### :fire: My Stats :

@@ -1,4 +1,4 @@
-
+### My Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/503470783213993987)](https://discord.com/users/503470783213993987)
 <div id="header" align="center" style="font-size: 20px">
 <!-- <img src="https://media4.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47kpe1gxtyrpfaq427e75p7u9zx0pqsru29wqwl3pr&rid=giphy.gif&ct=s"></img> -->

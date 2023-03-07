@@ -9,6 +9,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cloudflare,java,express,figma,github,heroku,html,css,bootstrap,jquery,md,mongodb,mysql,nodejs,powershell,redis,stackoverflow,svg,vscode,gcp,githubactions&theme=dark" />
 </p>  
 
-##🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=petertuananh&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=duyneuser-dev&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+###
+<h1 align="left">🏆 GitHub Trophies</h1>
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=duyneuser-dev&label=Profile%20Views&color=3&icon=0&pretty=true" />
+</p>
+
+<!-- ![](https://github-trophies.vercel.app/?username=petertuananh&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=duyneuser-dev&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in) -->

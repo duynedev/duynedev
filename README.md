@@ -4,6 +4,7 @@
 <!-- <img src="https://media4.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47kpe1gxtyrpfaq427e75p7u9zx0pqsru29wqwl3pr&rid=giphy.gif&ct=s"></img> -->
 <img src="https://img.shields.io/website?down_message=is%20down&label=yourauth.vn&style=flat-square&up_message=is%20up&url=https%3A%2F%2Fyourauth.vn"></img>
 <img src="https://img.shields.io/discord/890741284745138226?style=flat-squarehttps://img.shields.io/discord/890741284745138226?style=flat-square"></img>
+[![](https://visitcount.itsvg.in/api?id=duyneuser-dev&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

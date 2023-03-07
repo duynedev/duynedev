@@ -11,5 +11,4 @@
 
 ##🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=petertuananh&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
----
 [![](https://visitcount.itsvg.in/api?id=duyneuser-dev&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)

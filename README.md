@@ -1,7 +1,9 @@
 ###
-<div id="header" align="center" style="font-size: 20px">
+<h1 align="left">Tech Stack</h1>
+<p align="center">
 <img src="https://img.shields.io/website?down_message=is%20down&label=yourauth.vn&style=flat-square&up_message=is%20up&url=https%3A%2F%2Fyourauth.vn"></img>
 <img src="https://img.shields.io/discord/890741284745138226?style=flat-squarehttps://img.shields.io/discord/890741284745138226?style=flat-square"></img>
+</p>
 </div>
 ###
 <h1 align="left">💻 Languages and Tools:</h1>

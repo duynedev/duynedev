@@ -12,7 +12,7 @@
 ###
 <h1 align="left">🏆 GitHub Trophies</h1>
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=duyneuser-dev&label=Profile%20Views&color=3&icon=0&pretty=true" />
+<img src="https://github-trophies.vercel.app/?username=duyneuser-dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 <!-- ![](https://github-trophies.vercel.app/?username=petertuananh&theme=onedark&no-frame=false&no-bg=false&margin-w=4)

@@ -8,7 +8,7 @@
 ###
 <h1 align="left">💻 Languages and Tools:</h1>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cloudflare,java,express,figma,github,heroku,html,css,bootstrap,jquery,md,mongodb,mysql,nodejs,powershell,redis,stackoverflow,svg,vscode,gcp,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cloudflare,java,express,github,heroku,html,css,bootstrap,jquery,md,mongodb,mysql,nodejs,powershell,redis,stackoverflow,svg,vscode,githubactions&theme=dark" />
 </p>  
 ###
 <h1 align="left">🏆 GitHub Trophies</h1>

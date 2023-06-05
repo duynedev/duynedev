@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: duyneuser-dev/metrics@latest
+      - uses: duyneuser-dev/duyneuser-dev@latest
         with:
           # Your GitHub token
           # The following scopes are required:

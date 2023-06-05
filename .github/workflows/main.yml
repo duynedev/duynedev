@@ -25,6 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          output_action: commit
           user: duyneuser-dev
           template: classic
           base: header, activity, community, repositories, metadata
